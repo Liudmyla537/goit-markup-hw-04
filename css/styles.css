@@ -56,7 +56,6 @@ img {
   display: flex;
   align-items: center;
   position: relative;
-  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-logo {
@@ -174,11 +173,13 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office.png);
+    url(../images/hero-image.jpg);
 
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .business-title {
