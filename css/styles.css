@@ -173,7 +173,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/hero-image.jpg);
+    url(../images/people-office-1.jpg);
 
   background-repeat: no-repeat;
   background-position: center center;
@@ -495,7 +495,7 @@ button:focus {
 
 .soc-media-text {
   color: #f4f4fd;
-  text-align: center;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
